@@ -1,0 +1,14 @@
+C:\Users\bknorr\Documents\.Net-Mod1-Assignment\bin\Debug\net8.0\.Net-Mod1-Assignment.exe
+C:\Users\bknorr\Documents\.Net-Mod1-Assignment\bin\Debug\net8.0\.Net-Mod1-Assignment.deps.json
+C:\Users\bknorr\Documents\.Net-Mod1-Assignment\bin\Debug\net8.0\.Net-Mod1-Assignment.runtimeconfig.json
+C:\Users\bknorr\Documents\.Net-Mod1-Assignment\bin\Debug\net8.0\.Net-Mod1-Assignment.dll
+C:\Users\bknorr\Documents\.Net-Mod1-Assignment\bin\Debug\net8.0\.Net-Mod1-Assignment.pdb
+C:\Users\bknorr\Documents\.Net-Mod1-Assignment\obj\Debug\net8.0\.Net-Mod1-Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bknorr\Documents\.Net-Mod1-Assignment\obj\Debug\net8.0\.Net-Mod1-Assignment.AssemblyInfoInputs.cache
+C:\Users\bknorr\Documents\.Net-Mod1-Assignment\obj\Debug\net8.0\.Net-Mod1-Assignment.AssemblyInfo.cs
+C:\Users\bknorr\Documents\.Net-Mod1-Assignment\obj\Debug\net8.0\.Net-Mod1-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\bknorr\Documents\.Net-Mod1-Assignment\obj\Debug\net8.0\.Net-Mod1-Assignment.dll
+C:\Users\bknorr\Documents\.Net-Mod1-Assignment\obj\Debug\net8.0\refint\.Net-Mod1-Assignment.dll
+C:\Users\bknorr\Documents\.Net-Mod1-Assignment\obj\Debug\net8.0\.Net-Mod1-Assignment.pdb
+C:\Users\bknorr\Documents\.Net-Mod1-Assignment\obj\Debug\net8.0\.Net-Mod1-Assignment.genruntimeconfig.cache
+C:\Users\bknorr\Documents\.Net-Mod1-Assignment\obj\Debug\net8.0\ref\.Net-Mod1-Assignment.dll
